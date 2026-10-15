@@ -20,6 +20,12 @@ File Forge 1.0 is the first stable Windows release.
 Download `fileforge-1.0-windows-x64.zip`, verify its SHA-256 checksum, extract
 the complete ZIP, and run `FileForge.exe`.
 
+SHA-256:
+
+```text
+7881e5a3ba05fb0280d17f7e5be232ac4e5f6cc0618097cf8d350f58503ad9cb  fileforge-1.0-windows-x64.zip
+```
+
 The executable is not Authenticode signed, so Windows SmartScreen may show an
 unknown-publisher warning on first launch.
 
